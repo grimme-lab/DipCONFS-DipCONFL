@@ -1,5 +1,5 @@
 # DipCONFS-DipCONFL
-Geometries and electronic properties of the DipCONFS benchmark and DipCONFL data set. A detailed description is given in the [JCTC article](LINK). Both sets are separately available in xyz and HDF5 format.
+Geometries and electronic properties of the DipCONFS benchmark and DipCONFL data set. A detailed description is given in the [JCTC article](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00801). Both sets are separately available in xyz and HDF5 format.
 
 ## Structures of the HDF5 files
 The HDF5 format contains one group per amino acid and dipeptide named according to the one-letter code. Each of these groups contains subgroups labeled by a number specifying the conformer.
